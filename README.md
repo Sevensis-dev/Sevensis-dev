@@ -22,6 +22,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=figma)
+![Bash](https://img.shields.io/badge/-Bash-333?style=for-the-badge&logo=gnubash)
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+![SQLite](https://img.shields.io/badge/-SQLite-333?style=for-the-badge&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
 
 ### 📊 GitHub Stats
 
