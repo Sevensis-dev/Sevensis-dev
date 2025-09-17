@@ -42,8 +42,7 @@
 
 ### 🌐 Where to find me
 
-- [Telegram](https://t.me/sevensislife)
-- [My project](https://sevensis.ru)
+- [Telegram](https://t.me/sevxf)
 
 ---
 
